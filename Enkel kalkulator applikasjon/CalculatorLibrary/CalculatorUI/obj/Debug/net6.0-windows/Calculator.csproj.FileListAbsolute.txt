@@ -1,0 +1,17 @@
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\bin\Debug\net6.0-windows\Calculator.exe
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\bin\Debug\net6.0-windows\Calculator.dll
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\bin\Debug\net6.0-windows\Calculator.pdb
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\CalculatorUI.Calculator.resources
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.dll
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.pdb
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\C# training\C# Projects\Egne Prosjekter\Enkel kalkulator applikasjon\CalculatorLibrary\CalculatorUI\obj\Debug\net6.0-windows\ref\Calculator.dll
