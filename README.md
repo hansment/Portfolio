@@ -2,6 +2,7 @@
 Portfolio by Christian Hansen
 
 This is my portfolio where I make applications to learn C# and .NET
+
 My end goal is to become a fullstack C# .NET developer.
 
 I have so far done two WinForm applications.
