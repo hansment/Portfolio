@@ -10,8 +10,8 @@ bygge REST API-et i FastAPI, til å lage frontenden med radar charts og egenutvi
 Det jeg er mest stolt av: Helheten mellom frontend og backend – 
 at alt henger sammen fra automatisk datasynkronisering til live visning på nettsiden.
 ______________________________________________________________________________________________________
-🌐 Live norskhockey.no
-💻 Kode github.com/hansment/norskhockey
+🌐 Live: www.norskhockey.no
+💻 Kode: www.github.com/hansment/norskhockey
 ______________________________________________________________________________________________________
 Tech Stack NorskHockey.no:
 Python | FastAPI | SQLite | APScheduler | HTML/CSS/JS | Tailwind CSS | Alpine.js | Chart.js | Railway
