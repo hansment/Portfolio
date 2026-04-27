@@ -1,4 +1,5 @@
-Hey, jeg er Christian 👋
+Hey, jeg er Christian 👋  
+
 Software Developer med lidenskap for å bygge ting fra bunnen av – fra database til frontend.
 ______________________________________________________________________________________________________
 🚀 Prosjekter:
